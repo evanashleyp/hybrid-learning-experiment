@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+kagglehub
+matplotlib
+seaborn
+nltk
+jupyter
+ipykernel
+reportlab
+pypdf
